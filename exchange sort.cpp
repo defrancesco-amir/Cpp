@@ -1,6 +1,7 @@
 #include <iostream>
 #include <time.h>
-using namespace sint main() {
+using namespace std;
+int main() {
 	int temp, L;
 	cout<<"Inserire la lunghezza dell'array: ";
 	cin>>L;
